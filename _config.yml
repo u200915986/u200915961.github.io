@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: "Coder's Blog"
-description: '卞学胜，博士在读，热爱算法。'
-keyword: 'Python, Medical Image, Coder, Deep Learning, XMU, Segmentation, Xuesheng Bian, '
-url: 'https://541435721.github.io/' # your host
+title: "Economic Fans's Blog"
+description: '经济数据和代码'
+keyword: '经济学、微观数据、宏观数据、代码、Stata、matlab、python、R'
+url: 'https://u200915961.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -17,9 +17,9 @@ footer:
   since: 2018
 
 # Author 配置博主信息
-author: 'Coder'
-nickname: 'Coder'
-bio: '热爱医学影像处理，热爱深度学习'
+author: 'Fans'
+nickname: 'Fans'
+bio: '经济学数据和常用'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -49,10 +49,10 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/py_coder'
+  #weibo: '//weibo.com/py_coder'
   #juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   #instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/541435721'
+  github: '//github.com/u200915961'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
