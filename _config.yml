@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: "Economic Fans's Blog"
-description: '经济数据和代码'
-keyword: '经济学、微观数据、宏观数据、代码、Stata、matlab、python、R'
+title: "马仕达留学"
+description: '马仕达留学'
+keyword: '留学服务、英国留学、马仕达'
 # url: 'https://u200915961.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -17,9 +17,9 @@ footer:
   since: 2018
 
 # Author 配置博主信息
-author: 'Fans'
-nickname: 'Fans'
-bio: '研究中收集整理的数据和相关代码，欢迎交流：saukeikei@gmail.com'
+author: '马仕达'
+nickname: '马仕达'
+bio: '马仕达留学信息发布，欢迎交流：support@msdabc.com'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -30,7 +30,7 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: on
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
