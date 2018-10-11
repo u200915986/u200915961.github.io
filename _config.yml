@@ -2,7 +2,7 @@
 title: "Economic Fans's Blog"
 description: '经济数据和代码'
 keyword: '经济学、微观数据、宏观数据、代码、Stata、matlab、python、R'
-url: 'https://u200915961.github.io/' # your host
+# url: 'https://u200915961.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
